@@ -1,0 +1,9 @@
+pyproject.toml
+src/projectforge/__init__.py
+src/projectforge/cli.py
+src/projectforge/generator.py
+src/projectforge.egg-info/PKG-INFO
+src/projectforge.egg-info/SOURCES.txt
+src/projectforge.egg-info/dependency_links.txt
+src/projectforge.egg-info/top_level.txt
+test/test_package.py
